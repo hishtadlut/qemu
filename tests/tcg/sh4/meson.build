@@ -6,6 +6,7 @@ tests += {
   'test-addv.c': {},
   'test-macl.c': {},
   'test-macw.c': {},
+  'test-rotate.c': {},
   'test-subv.c': {},
 }
 
